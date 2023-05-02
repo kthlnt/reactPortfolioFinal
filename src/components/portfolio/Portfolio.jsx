@@ -7,6 +7,7 @@ import PASSWORDGEN from '../../assets/passwordgen.png'
 import QUIZ from '../../assets/quiz.png'
 import WEATHER from '../../assets/weather.png'
 import WORKDAYSCHEDULE from '../../assets/workdayschedule.png'
+import GROOVECRITIC from '../../assets/groovecritic.png'
 
 const data = [
   {
@@ -57,6 +58,13 @@ const data = [
     title: 'Password Generator',
     github: "https://github.com/kthlnt/Password-Generator",
     demo: "https://kthlnt.github.io/Password-Generator/"
+  },
+  {
+    id: 8,
+    image: GROOVECRITIC,
+    title: 'Groove Critic',
+    github: "https://github.com/kthlnt/reactPortfolioFinal",
+    demo: "https://kthlnt.github.io/reactPortfolioFinal/"
   },
 ]
 
