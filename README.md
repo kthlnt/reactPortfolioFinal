@@ -19,7 +19,7 @@
   * ``npm start``
 
   ## Useage 
- View the deployed site [here]().
+ View the deployed site [here](https://kthlnt.github.io/reactPortfolioFinal/).
   ![reactportss](https://user-images.githubusercontent.com/116473087/234048093-9daf7d54-4a2d-4861-ae0e-e8dda5b7d63f.png)
 ![reactportss2](https://user-images.githubusercontent.com/116473087/234048107-b4ed0b69-f66c-4af7-8cf2-4501afea1866.png)
 ![reactportss3](https://user-images.githubusercontent.com/116473087/234048126-a75de00b-1664-4fdd-bcc7-c321e812df21.png)
