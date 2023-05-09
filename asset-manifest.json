@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/reactPortfolioFinal/static/css/main.24d1f7f9.css",
-    "main.js": "/reactPortfolioFinal/static/js/main.f525d86a.js",
+    "main.js": "/reactPortfolioFinal/static/js/main.3bc3d5db.js",
     "static/media/deployedproject1.png": "/reactPortfolioFinal/static/media/deployedproject1.2aa522385c70e694e21b.png",
+    "static/media/groovecritic.png": "/reactPortfolioFinal/static/media/groovecritic.9d195bc6f0451b0d0b2a.png",
     "static/media/me.jpg": "/reactPortfolioFinal/static/media/me.ca10391fb5bdd2b0c936.jpg",
     "static/media/Resume.docx": "/reactPortfolioFinal/static/media/Resume.bb8bf331ab85af26b34b.docx",
     "static/media/mythicalmutts.png": "/reactPortfolioFinal/static/media/mythicalmutts.7246d8a7c43015a78953.png",
@@ -14,10 +15,10 @@
     "static/media/quiz.png": "/reactPortfolioFinal/static/media/quiz.c32f0cd0569ed315c19a.png",
     "index.html": "/reactPortfolioFinal/index.html",
     "main.24d1f7f9.css.map": "/reactPortfolioFinal/static/css/main.24d1f7f9.css.map",
-    "main.f525d86a.js.map": "/reactPortfolioFinal/static/js/main.f525d86a.js.map"
+    "main.3bc3d5db.js.map": "/reactPortfolioFinal/static/js/main.3bc3d5db.js.map"
   },
   "entrypoints": [
     "static/css/main.24d1f7f9.css",
-    "static/js/main.f525d86a.js"
+    "static/js/main.3bc3d5db.js"
   ]
 }
